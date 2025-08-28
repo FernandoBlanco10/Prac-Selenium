@@ -21,9 +21,6 @@ El script simula un flujo completo de compra en [saucedemo.com](https://www.sauc
 - **Google Chrome**
 - **ChromeDriver** (administrado automáticamente por `webdriver_manager`)
 
-### Instalación de dependencias
-
-`pip install selenium webdriver-manager`
 
 ## Instalación
 
@@ -39,5 +36,5 @@ El script simula un flujo completo de compra en [saucedemo.com](https://www.sauc
     ```
 3. Instala dependencias:
     ```bash
-    pip install selenium
+    pip install selenium webdriver-manager
     ```
